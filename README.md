@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Incharajayaram
 - 👀 I’m interested in full stack web development, machine learning and cybersecurity.
-- 🌱 I’m currently exploring machine learning and blockchain development
-- 💞️ I’m looking to collaborate on writing research papers
+- 🌱 I’m currently exploring machine learning and blockchain development.
+- 💞️ I’m looking to collaborate on writing research papers.
+- 🌟 My hobbies are reading, singing, quizzing, etc.
 
 <!---
 Incharajayaram/Incharajayaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
