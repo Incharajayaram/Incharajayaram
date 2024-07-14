@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 # My Github Stats
 
-<br></br>
 ![Incharajayaram's Stats](https://github-readme-stats.vercel.app/api?username=Incharajayaram&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br></br>
 ![Incharajayaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Incharajayaram&theme=vue-dark&hide_border=true)
