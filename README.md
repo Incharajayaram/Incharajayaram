@@ -1,7 +1,7 @@
 # About me 
 - 👋 Hi, I’m @Incharajayaram
-- 👀 I’m interested in full stack web development, machine learning and cybersecurity.
-- 🌱 I’m currently exploring machine learning and blockchain development.
+- 👀 I’m currently exploring machine learning and full stack web development.
+- 🌱 I am working on open source developement.
 - 💞️ I’m looking to collaborate on writing research papers.
 - 🌟 My hobbies are reading, singing, quizzing, etc.
 
