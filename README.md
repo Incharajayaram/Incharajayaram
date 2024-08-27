@@ -5,4 +5,4 @@
 
 # My Github Stats
 
-![Incharajayaram's Stats](https://github-readme-stats.vercel.app/api?username=Incharajayaram&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br></br>
+![Incharajayaram's Stats](https://github-readme-stats.vercel.app/api?username=Incharajayaram&theme=onedark&show_icons=true&hide_border=true&count_private=true)
