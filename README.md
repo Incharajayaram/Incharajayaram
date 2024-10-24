@@ -9,3 +9,5 @@
 <br>
 
 ![Incharajayaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Incharajayaram&theme=calm&hide_border=true)
+
+[![An image of @incharajayaram's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/incharajayaram)](https://holopin.io/@incharajayaram)
