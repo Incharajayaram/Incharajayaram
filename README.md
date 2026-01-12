@@ -10,7 +10,7 @@ I am currently working on machine learning and full stack web development
 
 ## Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Incharajayaram&theme=calm-pink&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Incharajayaram&theme=calm-pink&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Incharajayaram&theme=calm)
 
